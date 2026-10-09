@@ -7,8 +7,7 @@ patch version (0.1.1) only fixes. Kinera is built from source together with its
 sibling AMAGE libraries; the set of versions tested together is listed in
 [eco-build's releases](https://github.com/amage-si/eco-build/tree/main/releases).
 
-## Unreleased
-
+## [0.1.0] - 2026-10-09
 First version, tested with Bend 2.0.36 on Linux.
 
 ### Added
@@ -26,3 +25,5 @@ First version, tested with Bend 2.0.36 on Linux.
   wrap-aware `U32` millisecond clock.
 - 52 native checks against a float64 Python reference, the hover example and
   the per-call cost benchmark.
+
+[0.1.0]: https://github.com/amage-si/kinera/releases/tag/v0.1.0
