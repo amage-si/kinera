@@ -8,7 +8,7 @@ and depends only on `Base`. Every value is computed in closed form from the
 clock, so animations are deterministic and independent of the frame rate, and
 a finished motion tells its host that no more frames are needed.
 
-**Status:** early implementation, tested with **Bend 2.0.36** on Linux. The
+**Status:** early implementation, tested with **Bend 2.0.37** on Linux. The
 first priority is a polished, reliable experience on the development Linux
 machine. Compatibility layers will follow proven progress.
 

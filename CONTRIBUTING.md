@@ -1,6 +1,6 @@
 # Contributing to Kinera
 
-Use Bend 2.0.36 for the current baseline. Read `bend guide` before editing Bend
+Use Bend 2.0.37 for the current baseline. Read `bend guide` before editing Bend
 and keep project text in English. Library implementation belongs in Bend; the
 official runtime and operating system remain external dependencies.
 
